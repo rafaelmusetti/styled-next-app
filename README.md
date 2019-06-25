@@ -61,4 +61,5 @@ This is the basic project folder structure
 - [Babel](https://babeljs.io/) is used as a JavaScript compiler and configurable transpiler.
 - [React](http://facebook.github.io/react) is used for UI.
 - [Next.js](https://nextjs.org/) is used to manipulate routes.
+- [Styled Component](https://www.styled-components.com/) is used for stylize the components.
 - [Jest](https://jestjs.io/) + [Enzyme](https://github.com/airbnb/enzyme) - is used for unit tests.
